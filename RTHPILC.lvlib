@@ -11,6 +11,7 @@
 		<Item Name="HPResponses.ctl" Type="VI" URL="../DataTypes/HPResponses.ctl"/>
 		<Item Name="HPSettings.ctl" Type="VI" URL="../DataTypes/HPSettings.ctl"/>
 		<Item Name="HPTelemetry.ctl" Type="VI" URL="../DataTypes/HPTelemetry.ctl"/>
+		<Item Name="HPTimestamps.ctl" Type="VI" URL="../DataTypes/HPTimestamps.ctl"/>
 		<Item Name="HPTimings.ctl" Type="VI" URL="../DataTypes/HPTimings.ctl"/>
 	</Item>
 	<Item Name="HPILC.lvclass" Type="LVClass" URL="../HPILC/HPILC.lvclass"/>
